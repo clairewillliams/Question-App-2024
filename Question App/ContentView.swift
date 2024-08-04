@@ -4,7 +4,7 @@
 //
 //  Created by Scholar on 4/27/24.
 //
-// pushing to Github test!
+// pushing to GitHub test!
 
 import SwiftUI
 import SwiftData
